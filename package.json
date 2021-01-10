@@ -1,0 +1,15 @@
+{
+  "name": "spleeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spleeter.js",
+  "scripts": {
+    "start": "node spleeter.js -t"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
